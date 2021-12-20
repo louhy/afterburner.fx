@@ -10,3 +10,6 @@ uploadSnapshot.sh
 /pom.xml.releaseBackup
 /release.properties
 /nbproject/
+.gradle/
+
+build/
