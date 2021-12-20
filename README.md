@@ -1,6 +1,11 @@
 afterburner.fx
 ==============
 
+
+[This is an unsupported fork removing a log-cluttering System.err.out() statement. 
+There were some problems with Maven so a Gradle build was also added.] 
+
+
 The opinionated just-enough MVP framework (2.5 classes) for JavaFX
 
 Afterburner is a "Just-Enough-Framework" extracted from [airhacks-control](https://github.com/AdamBien/airhacks-control) and used in [airpad](https://github.com/AdamBien/airpad), [lightfish](https://github.com/AdamBien/lightfish) and [floyd](https://github.com/AdamBien/floyd) applications. 
